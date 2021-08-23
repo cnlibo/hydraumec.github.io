@@ -1,8 +1,7 @@
 <!doctype html>
-<html>
+<html><!-- TemplateBeginEditable name="EditTitle1" --><title></title><!-- TemplateEndEditable -->
 <head>
 <meta charset="utf-8">
-<title>Welcome to hydraumech.com</title>
 <script type="text/javascript" language="JavaScript1.2" src="../script/stlib.js"></script>
 <link rel="SHORTCUT ICON" href="../favicon.ico">
 <link rel="BOOKMARK" href="../favicon.ico">
@@ -41,6 +40,18 @@ body,td,th {
 h1,h2,h3,h4,h5,h6 {
 	font-style: normal;
 	font-weight: normal;
+}
+    a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
 }
     </style>
 <script type="text/javascript" src="../engine1/jquery.js"></script>
